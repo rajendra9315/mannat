@@ -1,0 +1,14 @@
+body{
+background: radial-gradient(circle at top, #053030, var(--bg));
+min-height:100vh;
+display:flex;
+align-items:center;
+justify-content:center;
+color:var(--text);
+}
+
+.container{
+width:100%;
+max-width:380px;
+padding:18px;
+}
